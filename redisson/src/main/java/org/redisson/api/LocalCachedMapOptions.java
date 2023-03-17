@@ -107,6 +107,27 @@ public class LocalCachedMapOptions<K, V> extends MapOptions<K, V> {
          */
         WEAK
     };
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
     public enum CacheProvider {
 
